@@ -1,0 +1,190 @@
+img{
+    width: 820px;
+    height: 700px;
+}
+div.col-md-6 a{
+    display: inline;
+    text-decoration: none;  
+    color: aliceblue;
+    padding: 10px;
+    position: relative;
+    bottom: 690px;
+   left: 20px;
+    background-color: rgb(114, 112, 111)
+}
+#col1, #col2{
+    display: inline;
+    text-decoration: none;  
+    color: aliceblue;
+    padding: 10px;
+    position: relative;
+    bottom: 710px;
+    left:560px ;
+    background-color: rgb(114, 112, 111)
+}
+ul.nav-bar{
+    position: relative;
+    bottom: 680px;
+    left: 50px;
+    width: 720px;
+    height: 60px;
+    background-color: rgb(200, 79, 0);
+}
+ul.nav-bar li{
+    padding-left: 10px;
+    font-size: x-large;
+    width: 150px;
+    position: relative;
+    left: 150px;
+    color: aliceblue;
+    display: inline-block;
+   
+}
+.target-border{
+    width: 300px;
+    border: 1px solid white;
+    position: relative;
+    bottom: 720px;
+    left: 300px;
+}
+.hast-tag{
+    width: 20px;
+    color: aliceblue;
+    font-size: xx-large;
+    position: relative;
+    bottom: 680px;
+    left: 20px;
+    background-color:rgb(200, 79, 0);
+}
+.ecma-script{
+   padding: 5px;
+    position: relative;
+    bottom: 740px;
+    left: 50px;
+    width: 720px;
+    height: 500px;
+    background-color: rgb(242, 233, 214);
+    border: 1px solid black;
+}
+div.ecma-def p{
+    width: 310px;
+}
+ul.col-md li{
+    text-align: center;
+    margin: 2px;
+    position: relative;
+    bottom: 1000px;
+    left: 30px;
+    font-size:small;
+    display: inline;
+    border-bottom: 1px solid black;  
+}
+div.col-md-12 li{
+    width: 60px;
+    text-align: center;
+    display: inline;
+    font-size: x-small;
+    margin: 1px;
+    height: 30px;
+    position: relative;
+    bottom: 1010px;
+    left: 50px;
+    padding-top: 10px;
+}
+.target-empty{
+    background-color: rgb(242, 233, 214);
+    color: transparent
+}
+.target-2{
+    position: relative;
+    bottom: 1255px;
+    left: 103px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-yellow{
+    background-color:  rgb(148, 112, 12);
+}
+.target-value{
+    background-color: rgb(37, 133, 51)
+}
+.target-red{
+    background-color: rgb(129, 0, 0);
+}
+.target-num{
+    position: relative;
+    bottom: 1205px;
+    left: 85px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-3{
+    position: relative;
+    bottom: 1160px;
+    left: 66px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-4{
+    position: relative;
+    bottom: 1110px;
+    left: 45px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-5{
+    position: relative;
+    bottom: 1110px;
+    left: 90px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-6{
+    position: relative;
+    bottom: 1110px;
+    left: 135px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
+.target-7{
+    position: relative;
+    bottom: 1110px;
+    left: 175px;
+    text-align: center;
+    font-size: xx-small;
+    display: inline-block;
+    width: 15px;
+    height: 12px;
+    border: 1px solid black;
+    background-color: aliceblue;
+}
